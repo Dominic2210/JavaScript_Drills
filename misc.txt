@@ -1,0 +1,26 @@
+    
+    Lecture scripts
+
+    <script src="../Tutotrial/script/L1.js"></script>
+    <script src="../Tutotrial/script/L2.js"></script>
+    <script src="../Tutotrial/script/L2.1.js"></script> 
+    <script src="../Tutotrial/script/L3.js"></script>  
+    <script src="../Tutotrial/script/L3.1.js"></script>  
+    <script src="../Tutotrial/script/L4.js"></script>  
+    <script src="../Tutotrial/script/L4.1.js"></script>  
+    <script src="../Tutotrial/script/L5.js"></script>  
+    <script src="../Tutotrial/script/L5.1.js"></script> 
+    <script src="../Tutotrial/script/L6(DOM).js"></script> 
+
+      Practice scripts  
+
+      <script src="../Tutotrial/practice_script/P_trial.js"></script>  
+      <script src="../Tutotrial/practice_script/P2.1.js"></script>
+      <script src="../Tutotrial/practice_script/P2.2.js"></script>  
+      <script src="../Tutotrial/practice_script/P3.js"></script>  
+      <script src="../Tutotrial/practice_script/P3.1.js"></script>  
+      <script src="../Tutotrial/practice_script/P3.2.js"></script>  
+      <script src="../Tutotrial/practice_script/P4.js"></script>  
+      <script src="../Tutotrial/practice_script/P4.1.js"></script>  
+      <script src="../Tutotrial/practice_script/P5.js"></script>  
+      <script src="../Tutotrial/practice_script/P5.1.js"></script>  
