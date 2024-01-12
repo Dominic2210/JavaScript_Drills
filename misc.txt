@@ -13,6 +13,8 @@
     <script src="../Tutotrial/script/L6(DOM).js"></script> 
     <script src="../Tutotrial/script/L7(Events).js"></script>
     <script src="../Tutotrial/script/L7.1(Events).js"></script>
+    <script src="/script/L8(Obj).js"></script>
+    <script src="/script/L8.1(Class).js"></script>
 
       Practice scripts  
 
@@ -26,3 +28,4 @@
       <script src="../Tutotrial/practice_script/P4.1.js"></script>  
       <script src="../Tutotrial/practice_script/P5.js"></script>  
       <script src="../Tutotrial/practice_script/P5.1.js"></script>  
+      <script src="/practice_script/P6.js"></script>
