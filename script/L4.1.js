@@ -34,6 +34,7 @@ console.log(dc);
 
 // Splice Method
 // Method to remove particular elements from the index.
+
 heroes.splice(4, 1);
 console.log(
   `The 4th index element in the original array has been removed = ${heroes}`

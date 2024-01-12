@@ -11,6 +11,8 @@
     <script src="../Tutotrial/script/L5.js"></script>  
     <script src="../Tutotrial/script/L5.1.js"></script> 
     <script src="../Tutotrial/script/L6(DOM).js"></script> 
+    <script src="../Tutotrial/script/L7(Events).js"></script>
+    <script src="../Tutotrial/script/L7.1(Events).js"></script>
 
       Practice scripts  
 
