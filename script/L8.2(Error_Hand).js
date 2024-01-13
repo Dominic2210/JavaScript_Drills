@@ -21,6 +21,7 @@ console.log("Scenario 2: Error handling")
 let c = 5
 let d = 10
 
+
 console.log(`a = ${c}`)
 console.log(`b = ${d}`)
 console.log(`a + b = ${c + d}`)
